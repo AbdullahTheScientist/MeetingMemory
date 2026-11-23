@@ -1,0 +1,62 @@
+[
+  {
+    "question_id": "M01",
+    "team": "TS3007",
+    "question": "What energy source did Team TS3007 settle on in meeting c, what did they end with in meeting d, and who proposed dropping the kinetic part?",
+    "must_contain": ["kinetic", "batter", "speaker a"]
+  },
+  {
+    "question_id": "M02",
+    "team": "ES2003",
+    "question": "Which case material did Team ES2003 lean towards first, and which did they end up using instead?",
+    "must_contain": ["rubber", "plastic"]
+  },
+  {
+    "question_id": "M03",
+    "team": "TS3009",
+    "question": "How did Team TS3009 handle the titanium back on their remote by the final meeting?",
+    "must_contain": ["titanium", "plastic"]
+  },
+  {
+    "question_id": "M04",
+    "team": "TS3011",
+    "question": "What energy combination did Team TS3011 choose, and what happened to the solar part after the costs were added up?",
+    "must_contain": ["solar", "batter", "cost"]
+  },
+  {
+    "question_id": "M05",
+    "team": "ES2008",
+    "question": "What happened to Team ES2008's lost-remote feature, and what was Speaker C's objection?",
+    "must_contain": ["speaker c", "gimmick"]
+  },
+  {
+    "question_id": "M06",
+    "team": "IS1002",
+    "question": "What selling price did Team IS1002 start with, what bracket did they settle on, and who wanted an exclusive higher price?",
+    "must_contain": ["twenty-five", "fifty", "speaker d"]
+  },
+  {
+    "question_id": "M07",
+    "team": "TS3003",
+    "question": "Which age group did Team TS3003 decide to design for?",
+    "must_contain": ["sixty", "eighty"]
+  },
+  {
+    "question_id": "M08",
+    "team": "ES2016",
+    "question": "What did Team ES2016's first full costing total, what was the budget limit, and what did they remove to hit it?",
+    "must_contain": ["fifteen", "twelve", "lcd"]
+  },
+  {
+    "question_id": "M09",
+    "team": "ES2006",
+    "question": "Which headline features did Team ES2006 keep, and what did they change to get under budget?",
+    "must_contain": ["voice", "lcd", "button"]
+  },
+  {
+    "question_id": "M10",
+    "team": "ES2011",
+    "question": "What did Team ES2011 finally decide about fruit and vegetable shapes for their remote?",
+    "must_contain": ["shape", "colo"]
+  }
+]
